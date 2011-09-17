@@ -1,0 +1,6 @@
+﻿Lava is a basic skeleton of a 3D application with XNA 4.0.
+
+Features supported so far:
+- Camera Management (easy to implement new Camera types, Quake-like FPS camera and static camera already implemented)
+- Scene Management
+- Resource Management

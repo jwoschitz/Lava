@@ -1,0 +1,41 @@
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\bin\x86\Debug\Content\Models\marble.xnb
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\bin\x86\Debug\Content\Textures\Marble.xnb
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\bin\x86\Debug\Content\Fonts\Debug.xnb
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\bin\x86\Debug\Npulse.exe
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\bin\x86\Debug\Npulse.pdb
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\bin\x86\Debug\BEPUphysics.xml
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\obj\x86\Debug\Lava.Resources.Game.resources
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\obj\x86\Debug\Lava.Resources.Core.resources
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\obj\x86\Debug\Npulse.exe
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\Nightfall\obj\x86\Debug\Npulse.pdb
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\bin\x86\Debug\Content\Models\marble.xnb
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\bin\x86\Debug\Content\Textures\Marble.xnb
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\bin\x86\Debug\Content\Fonts\Debug.xnb
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\bin\x86\Debug\Npulse.exe
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\bin\x86\Debug\Npulse.pdb
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\bin\x86\Debug\BEPUphysics.xml
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\obj\x86\Debug\Lava.Resources.Game.resources
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\obj\x86\Debug\Lava.Resources.Core.resources
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\obj\x86\Debug\Npulse.exe
+C:\Users\localadmin\Desktop\Nightfall\Lava\Lava\obj\x86\Debug\Npulse.pdb
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\obj\x86\Debug\Lava.Resources.Game.resources
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\obj\x86\Debug\Lava.Resources.Core.resources
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\obj\x86\Debug\Npulse.exe
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\obj\x86\Debug\Npulse.pdb
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\bin\x86\Debug\Content\Models\marble.xnb
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\bin\x86\Debug\Content\Textures\Marble.xnb
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\bin\x86\Debug\Content\Fonts\Debug.xnb
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\bin\x86\Debug\Npulse.exe
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\Lava\bin\x86\Debug\Npulse.pdb

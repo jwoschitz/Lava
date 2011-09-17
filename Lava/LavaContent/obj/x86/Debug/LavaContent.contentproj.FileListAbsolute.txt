@@ -1,0 +1,3 @@
+C:\Users\localadmin\Desktop\Nightfall\Nightfall\NightfallContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\localadmin\Desktop\Nightfall\Lava\LavaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\localadmin\Desktop\Nightfall - Kopie\Lava\LavaContent\obj\x86\Debug\ResolveAssemblyReference.cache
